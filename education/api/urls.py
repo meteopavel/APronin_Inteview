@@ -6,3 +6,7 @@ from api.views import CourseViewSet
 
 router = DefaultRouter()
 router.register('courses', CourseViewSet, basename='courses')
+
+urlpatterns = [
+    path('', include(router.urls)),
+]
