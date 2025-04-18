@@ -28,3 +28,4 @@ class Course(models.Model):
         related_name='courses'
     )
 
+
