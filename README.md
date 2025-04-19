@@ -2,6 +2,7 @@
 <!-- Django --><a href="https://docs.djangoproject.com/en/5.1/releases/5.0/"><img src="./images/django.svg"></a>
 <!-- DRF --><a href="https://www.django-rest-framework.org/"><img src="./images/django.svg"></a>
 <br />
+<br />
 
 <div align="center">
   <a href="https://vkvideo.ru/video-202584258_456239372" target="_blank">
