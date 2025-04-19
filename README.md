@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://vkvideo.ru/video-202584258_456239372">
-    <img src="./images/preview.png" alt="Preview" width="250" height="auto">
+    <img src="./images/preview.png" alt="Preview" width="640" height="auto">
   </a>
   <h1 align="center">APronin_Inteview 🎓</h1>
   <p align="center">
