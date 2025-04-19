@@ -1,6 +1,7 @@
 <!-- Python 3 --><a href="https://www.python.org/downloads/release/python-31010/"><img src="./images/python_3.svg"></a>
 <!-- Django --><a href="https://docs.djangoproject.com/en/5.1/releases/5.0/"><img src="./images/django.svg"></a>
 <!-- DRF --><a href="https://www.django-rest-framework.org/"><img src="./images/django.svg"></a>
+<br />
 
 <div align="center">
   <a href="https://vkvideo.ru/video-202584258_456239372" target="_blank">
