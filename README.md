@@ -1,7 +1,7 @@
 <!-- Python 3 --><a href="https://www.python.org/downloads/release/python-31010/"><img src="./images/python_3.svg"></a>
 <!-- Django --><a href="https://docs.djangoproject.com/en/5.1/releases/5.0/"><img src="./images/django.svg"></a>
 <!-- DRF --><a href="https://www.django-rest-framework.org/"><img src="./images/django.svg"></a>
-<br /><br />
+<br />
 
 <div align="center">
   <a href="https://vkvideo.ru/video-202584258_456239372" target="_blank">
@@ -10,11 +10,11 @@
   <h1 align="center">APronin_Inteview 🎓</h1>
   <p align="center">
     🔧 Этот репозиторий оставлен как память о публичном моковом собеседовании на канале Андрея Пронина. В рамках задания мы с напарником <strong>Даулетом</strong> успешно создали небольшой сервис на Django REST Framework (DRF), который возвращает отсортированную информацию о курсах учебного заведения. 🚀
-    <br /><br />
+    <br />
     <a href="https://www.youtube.com/@AndyPronin" target="_blank">Канал Андрея</a>
     ·
     <a href="https://github.com/Dauletnazarr" target="_blank">Репозиторий Даулета</a>
-    .
+    ·
     <a href="https://meteopavel.space" target="_blank">Мой сайт</a>
   </p>
 </div>
