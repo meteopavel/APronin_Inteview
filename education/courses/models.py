@@ -7,6 +7,10 @@ from django.core.validators import RegexValidator
 
 class Level(models.Model):
     level = models.TextField()
+    period = models.PositiveIntegerField(default=0)
+
+    class Meta:
+        ordering = ('period',)
 
 
 class Course(models.Model):
@@ -27,5 +31,3 @@ class Course(models.Model):
         on_delete=models.CASCADE,
         related_name='courses'
     )
-
-

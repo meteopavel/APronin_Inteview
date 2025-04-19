@@ -8,7 +8,9 @@ from api.serializers import CourseSerializer
 from courses.models import Course
 
 
-class CourseViewSet(viewsets.Modelviewset):
+class CourseViewSet(viewsets.ModelViewSet):
     serializer_class = CourseSerializer
-    queryset = Course.objects.select_related("level")
+    queryset = Course.objects.select_related(
+        "level"
+        ).order_by("level__period")
     permission_classes = (AllowAny,)
