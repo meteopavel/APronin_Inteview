@@ -3,18 +3,18 @@
 <!-- DRF --><a href="https://www.django-rest-framework.org/"><img src="./images/django.svg"></a>
 
 <div align="center">
-  <a href="https://vkvideo.ru/video-202584258_456239372">
+  <a href="https://vkvideo.ru/video-202584258_456239372" target="_blank">
     <img src="./images/preview.png" alt="Preview" width="640" height="auto">
   </a>
   <h1 align="center">APronin_Inteview 🎓</h1>
   <p align="center">
     🔧 Этот репозиторий создан как память о публичном моковом собеседовании на канале Андрея Пронина. В рамках задания мы с напарником **Даулетом** успешно создали небольшой сервис на Django REST Framework (DRF), который возвращает отсортированную информацию о курсах учебного заведения. 🚀
     <br /><br />
-    <a href="https://www.youtube.com/@AndyPronin">Канал Андрея</a>
+    <a href="https://www.youtube.com/@AndyPronin" target="_blank">Канал Андрея</a>
     ·
-    <a href="https://github.com/Dauletnazarr">Репозиторий Даулета</a>
+    <a href="https://github.com/Dauletnazarr" target="_blank">Репозиторий Даулета</a>
     .
-    <a href="https://meteopavel.space">Мой сайт</a>
+    <a href="https://meteopavel.space" target="_blank">Мой сайт</a>
   </p>
 </div>
 
